@@ -1,0 +1,3 @@
+from gen_cpf_package import gen_cpf_module
+
+gen_cpf_module.number_of_cpf_number()
